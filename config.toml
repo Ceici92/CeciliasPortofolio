@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 publishDir = "docs"
-title = "Blonde"
+title = "Cecilia Gomes"
 author = "wamo"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -8,15 +8,6 @@ enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
 
-
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
-
-# If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "G-1234567890"
-
-# Disqus Comment System
-#disqusShortname = ""
 
 [params]
 # The number of articles to be displayed on a single page.
@@ -43,11 +34,6 @@ tagsLimit = 20
     tags = true
     recentposts = false
     search = false
-
-# If you're using Yandex.Metrica, you can enable this feature.
-#[params.analytics.yandexmetrica]
-#    enabled = true
-#    tagNumber = ''
 
 [menu]
 
@@ -76,27 +62,12 @@ archive = "archives"
 
 [privacy]
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
   [privacy.twitter]
     disabled = false
     enableDNT = true
     simple = true
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
 [services]
-
-  [services.instagram]
-    disableInlineCSS = true
 
   [services.twitter]
     disableInlineCSS = true
