@@ -5,5 +5,4 @@ draft: false
 image: "images/prism.jpg"
 ---
 
-[![Street AR](img/StreetAR.png)(https://youtu.be/sd7jM1GwpIY)]
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Street AR](img/StreetAR.png)](https://youtu.be/sd7jM1GwpIY)
