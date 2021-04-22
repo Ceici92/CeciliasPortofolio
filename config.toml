@@ -7,6 +7,8 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
 
 
 [params]
