@@ -29,13 +29,11 @@
     <link href="{{ "/css/blonde.min.css" | relURL }}" rel="stylesheet" type="text/css" media="print"
           onload="this.media='all'">
     {{ partial "seo/print.html" . }}
-    {{ block "header_css" . }}{{ end }}
-    // css
+    {{ block "header_css" . }}
+    {{ end }}
     {{ range .Site.Params.custom_css -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}
-
-    // javascript
     {{ range .Site.Params.custom_js -}}
     <script type="text/javascript" src="{{ . | absURL }}"></script>
     {{- end }}
