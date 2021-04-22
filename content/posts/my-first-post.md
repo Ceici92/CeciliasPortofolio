@@ -6,4 +6,4 @@ image: "img/StreetAR.png"
 ---
 
 [![Street AR](img/StreetAR.png)](https://youtu.be/sd7jM1GwpIY)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)](https://www.youtube.com/watch?v=sd7jM1GwpIY)
