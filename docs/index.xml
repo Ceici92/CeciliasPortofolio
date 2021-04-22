@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cecilia Gomes</title>
-    <link>https://example.com/</link>
+    <link>https://Ceici92.github.io/CeciliasPortofolio/</link>
     <description>Recent content on Cecilia Gomes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Mar 2021 23:36:26 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Mar 2021 23:36:26 +0100</lastBuildDate><atom:link href="https://Ceici92.github.io/CeciliasPortofolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://Ceici92.github.io/CeciliasPortofolio/posts/my-first-post/</link>
       <pubDate>Wed, 24 Mar 2021 23:36:26 +0100</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/my-first-post/</guid>
       <description></description>
     </item>
     

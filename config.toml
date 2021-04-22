@@ -1,4 +1,4 @@
-baseURL = ""https://Ceici92.github.io/CeciliaPortofolio"
+baseURL = "https://Ceici92.github.io/CeciliasPortofolio"
 publishDir = "docs"
 title = "Cecilia Gomes"
 author = "wamo"
