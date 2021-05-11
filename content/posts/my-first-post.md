@@ -16,14 +16,8 @@ image: "img/StreetAR.png"
 
 This is me
 
-{{< gallery-slider dir="/img/Diaporama/">}}
+{{< gallery-slider dir="img/Diaporama/" width="907px" height="510px" >}}
 
-![Please](/img/prism.jpg)
-
-![Please](img/prism.jpg)
-
-![Please](public/img/default.jpg)
-
-![Please](/public/img/default.jpg)
+![Please](https://ceici92.github.io/CeciliasPortofolio/img/prism.jpg)
 
 {{< youtube sd7jM1GwpIY >}}
