@@ -15,4 +15,4 @@ image: "img/StreetAR.png"
 -->
 
 
-{{< slide-test "/img/">}}
+{{< gallery-slider dir="/img">}}
