@@ -19,4 +19,3 @@ This is me
 {{< gallery-slider dir="/img/Diaporama/">}}
 
 ![](/img/StreetAR.png)
-<img src = "/image.png">
