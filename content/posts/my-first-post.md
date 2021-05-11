@@ -10,3 +10,11 @@ image: "img/StreetAR.png"
 
 
 {{< slider-holder url1="https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg" url2="https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg" url3="https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg" >}}
+
+<link rel="stylesheet" type="text/css" media="all" href="test.css" />
+
+My text
+
+![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
+
+[![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
