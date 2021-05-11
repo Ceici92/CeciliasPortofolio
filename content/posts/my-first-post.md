@@ -20,10 +20,10 @@ This is me
 
 ![Please](/img/prism.jpg)
 
-![Please](/images/prism.jpg)
+![Please](img/prism.jpg)
 
-![Please](/images/StreetAR.png)
+![Please](public/img/default.jpg)
 
-![Please](/post1/StreetAR.png)
+![Please](/public/img/default.jpg)
 
-![Please](/posts/post1/StreetAR.png)
+{{< youtube sd7jM1GwpIY >}}

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-![Please](/img/prism.jpg)
+![Please](img/prism.jpg)
 
 ![Please](/images/prism.jpg)
 
