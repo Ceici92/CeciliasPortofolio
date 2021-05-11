@@ -17,3 +17,5 @@ image: "img/StreetAR.png"
 This is me
 
 {{< gallery-slider dir="/img/Diaporama/">}}
+
+![](/img/StreetAR.png)
