@@ -19,4 +19,9 @@ This is me
 {{< gallery-slider dir="/img/Diaporama/">}}
 
 ![Please](/img/prism.jpg)
-<img src = "/image.png">
+
+![Please](/images/prism.jpg)
+
+![Please](/images/StreetAR.png)
+
+![Please](/images/bla.png)
