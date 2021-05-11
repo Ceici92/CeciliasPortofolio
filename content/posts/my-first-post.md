@@ -24,4 +24,6 @@ This is me
 
 ![Please](/images/StreetAR.png)
 
-![Please](/images/bla.png)
+![Please](/post1/StreetAR.png)
+
+![Please](/posts/post1/StreetAR.png)
