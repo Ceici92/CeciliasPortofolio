@@ -10,8 +10,9 @@ My text
 
 ![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
 
-[![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
+![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
 
+![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)
 
 [//]: # [![](https://img.youtube.com/vi/sd7jM1GwpIY/0.jpg)](https://www.youtube.com/watch?v=sd7jM1GwpIY)
 
