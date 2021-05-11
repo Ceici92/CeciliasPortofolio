@@ -2,7 +2,7 @@
 title: "Street AR"
 date: 2021-03-24T23:36:26+01:00
 draft: false
-image: "img/StreetAR.png"
+image: ""
 ---
 
 <!---  
@@ -14,5 +14,6 @@ image: "img/StreetAR.png"
 
 -->
 
+This is me
 
 {{< gallery-slider dir="/img">}}
