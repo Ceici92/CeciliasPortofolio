@@ -32,7 +32,6 @@
       "bg-gray-800",
       "bg-white",
       "block",
-      "button-holder",
       "col-span-3",
       "container",
       "content",
@@ -54,7 +53,6 @@
       "icon-access_time",
       "icon-menu",
       "icon-moon",
-      "image-holder",
       "inline-flex",
       "invisible",
       "items-center",
@@ -100,9 +98,6 @@
       "py-1",
       "py-2",
       "py-3",
-      "slider-change",
-      "slider-holder",
-      "slider-image",
       "sm:inline-block",
       "sm:items-center",
       "sm:mt-0",
@@ -132,9 +127,6 @@
       "dark-mode-toggle-icon2",
       "hamburgerbtn",
       "mobileMenu",
-      "slider-image-1",
-      "slider-image-2",
-      "slider-image-3",
       "thumb"
     ]
   }
