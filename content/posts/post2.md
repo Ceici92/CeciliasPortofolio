@@ -1,14 +1,15 @@
 ---
-title: "Post2"
+title: "Street AR"
 date: 2021-05-11T19:46:48+02:00
 draft: false
 image: "img/StreetAR.png"
 
 ---
 
-Street AR: Augment Art
+### Augmented Street Art
 
-As a transversal project during my master 2 in Virtual and Augmented Reality, I teamed-up with another student, and we created an AR application around a fresco: 
+
+As a transversal project during my master 2 in Virtual and Augmented Reality, I teamed-up with another student, and we created an AR application dedicated to one fresco. 
 
 {{< gallery-slider dir="img/StreetAR/Diaporama/" width="907px" height="510px" >}}
 

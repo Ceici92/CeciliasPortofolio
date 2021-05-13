@@ -12,6 +12,7 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "html",
       "iframe",
@@ -128,6 +129,7 @@
       "w-full"
     ],
     "ids": [
+      "augmented-street-art",
       "content",
       "dark-mode-theme",
       "dark-mode-toggle-1",
