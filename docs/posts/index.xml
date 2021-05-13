@@ -13,7 +13,9 @@
       <pubDate>Tue, 11 May 2021 19:46:48 +0200</pubDate>
       
       <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/post2/</guid>
-      <description></description>
+      <description>Street AR: Augment Art
+As a transversal project during my master 2 in Virtual and Augmented Reality, I teamed-up with another student, and we created an AR application around a fresco:
+#slide-window {position: relative;width: 907px;height: 510px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 907px;height: 510px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.</description>
     </item>
     
     <item>

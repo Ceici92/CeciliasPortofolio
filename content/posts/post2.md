@@ -2,11 +2,43 @@
 title: "Post2"
 date: 2021-05-11T19:46:48+02:00
 draft: false
+image: "img/StreetAR.png"
+
 ---
 
+Street AR: Augment Art
 
-![Please](img/prism.jpg)
+As a transversal project during my master 2 in Virtual and Augmented Reality, I teamed-up with another student, and we created an AR application around a fresco: 
 
-![Please](/images/prism.jpg)
+{{< gallery-slider dir="img/StreetAR/Diaporama/" width="907px" height="510px" >}}
 
-![Please](/images/StreetAR.png)
+{{< youtube sd7jM1GwpIY >}}
+
+We decided to make an AR application in connection with art, and the following fresco seemed to be the best support fot it.
+
+![The Fresco](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/Fresco.jpg)
+
+
+The fresco was created by children of the “Maison de Quartier” of Evry, students of Telecom Sudparis and the street artist Vince. 
+The creation of the freco was an excuse to begin a dialogue around art and the environment, between the students and the children. 
+
+I teamed up with another student, and together we worked around three problematics: how to transpose street art into the world of augmented reality, how to make this experience attractive, and how to address it to people who do not know AR?
+
+To do so, we organised our time in five phases: Immersion, Ideation, Organisation, Production and Presentation.
+For each phase, I described what we have done above:
+
+![Immersion](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/1Immersion.png)
+
+![Ideation](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/2Ideation.png)
+
+![Organisation](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/3Organisation.png)
+
+![Production 1](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/4Production1.png)
+
+![Production 2](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/4Production2.png)
+
+![Production 3](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/4Production3.png)
+
+![Presentation](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/5Presentation.png)
+
+

@@ -16,7 +16,7 @@ image: "img/StreetAR.png"
 
 This is me
 
-{{< gallery-slider dir="img/Diaporama/" width="907px" height="510px" >}}
+{{< gallery-slider dir="img/StreetAR/Diaporama/" width="907px" height="510px" >}}
 
 ![Please](https://ceici92.github.io/CeciliasPortofolio/img/prism.jpg)
 
