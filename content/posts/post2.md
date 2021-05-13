@@ -16,8 +16,8 @@ As a transversal project during my master 2 in Virtual and Augmented Reality, I 
 
 &nbsp;
 
-We decided to make an AR application in connection with art, and we took advantage of this magnific fresco painted by students of our school, children of several activity centers in Evry,  and the street artist Vince.
-The creation of the freco was an excuse to begin a dialogue around art and the environment, between the students and the children. 
+We decided to make an AR application in connection with art, and we took advantage of this magnific fresco painted by students of our school, children of several activity centre in Evry,  and the street artist Vince.
+The creation of the fresco was an excuse to begin a dialogue around art and the environment, between the students and the children. 
 
 &nbsp;
 
@@ -28,7 +28,7 @@ The creation of the freco was an excuse to begin a dialogue around art and the e
 I teamed up with another student, and together we worked around three problematics: how to transpose street art into the world of augmented reality, how to make this experience attractive, and how to address it to people who do not know AR?
 
 To do so, we organised our time in five phases: **Immersion**, **Ideation**, **Organisation**, **Production** and **Presentation**.
-For each phase, I described what we have done above:
+For each phase, I described what we have done below:
 
 {{< gallery-slider dir="img/StreetAR/Phases/" width="907px" height="500px" >}}
 
