@@ -28,6 +28,4 @@ Here is also images of the 3D models with more textures in Blender :
 {{< gallery-slider dir="img/Genopole/CampusVideo/" width="907px" height="500px" >}}
 
 
-Finally, you can find below the 3D models of the other campuses that we modelled but did not put in the visit :
-
-{{< gallery-slider dir="img/Genopole/AutresCampus/" width="907px" height="500px" >}}
+![The Fresco](https://ceici92.github.io/CeciliasPortofolio/img/Genopole/AutresCampus/1SVGVueGenerale.jpg)
