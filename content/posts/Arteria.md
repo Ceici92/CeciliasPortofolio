@@ -11,13 +11,14 @@ This startup of 15 employees aim to make profitable the infrastructures of RTE, 
 For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.
 My mission was to design and implement the customers' dashboard on the interface, and to provide the best work I could, I followed those steps:
 
+&nbsp;
 
-## Study of the existing
+### Study of the existing
 
 I started by analysing the different types of clients and data collected, and the existing interface.
 
 
-### Clients and data
+## Clients and data
 
 Two main main domains are represented in the inteface: agriculture and smart cities.
 
@@ -29,7 +30,7 @@ The agricultors may have different types of activities: some want to see the dat
 For the smart cities, the clients needs to easily understand the data of the different rooms or floors, and have both precise views of each room and a general one of all the building.
 
 
-### The interface 
+## The interface 
 
 The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
 Therefore, I did not have to code entirelly a new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.
@@ -37,34 +38,33 @@ Therefore, I did not have to code entirelly a new dashboards, and I could custom
 The interface was at its premice, and only had one type of dashboard for all the agricultors clients.
 Appart from the lack of distincion between the activities of the agricultors, at first sigh the client may not see the information he wants.
 
-![Dashboard](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Dashboard1.JPG)
+![Dashboard](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Screenshots/Dashboard1.JPG)
 
 
-As for the widgets, the same one was used to represent the temperature, humidity, and the occupancy rate of a silo; which made it difficult to easily differentiate the values.
+For the widgets, the same one was used to represent the temperature, humidity, and the occupancy rate of a silo; which made it difficult to easily differentiate the values.
+Besides, some graphics could be hard to read for customers that are not used to it.
 
-![Widgets](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/SiloWidgets.JPG)
-
-Besides, some graphics could be hard to read for customers that are not used to IoT.
-
-![Widgets](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/GraphicWidget.JPG)
+&nbsp;
 
 
-## Research
+### Research
 
 After discerning the needs and the existing problems, I made research to look at what was done it terms of dashboard or widgets, and what could be done with thingsboard or by code.
 You can see below different moodboards that I created.
 
 <!-- ![Moodboard](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->
 
+&nbsp;
 
 
-## Brainstorming
+### Brainstorming
 
 Once I had all this aspects in mind, I shared them with my tutor, and we reunited for brainstorming sessions.
 We used scenarios, personas, and storyboards to obtain a clear view of our objectives.
 
+&nbsp;
 
-## Sketching and Prototyping
+### Sketching and Prototyping
 
 After having a clear view of where we were going, I started to sketch the dashboards and widgets I imagined, along with their information architectures.
 
@@ -75,14 +75,14 @@ To modify or create widgets on the platform, I had to understand the code of the
 I also created new icons on Photoshop and Illustrator, to create more representative widgets.
 For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specic site or area.  
 
-{{< gallery-slider dir="img/Arteria/Widgets/" width="907px" height="500px" >}}
-
+![Prototypes](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Hand-madeIcons.JPG)
 
 Unfortunately, I was not able to make potential users test my dashboards. 
 However I shared my creations with my team of 4, and reajusted them accordingly.
 
+&nbsp;
 
-## Solutions and Sharing
+### Solutions and Sharing
 
 For the agriculture, I conceived 4 types of dashboards, you can swipe bellow to see the different dashboard I produced.
 
