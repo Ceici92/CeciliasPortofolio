@@ -92,7 +92,7 @@ Then, I made a dashboard for each type of data: the first one is for the monitor
 The two following dashboards are for the smart cities: one with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accessses the second dashboard where the data of the different sensors of the room are displayed.
 
 
-{{< gallery-slider dir="img/Arteria/Solutions/" width="907px" height="500px" >}}
+{{< gallery-slider dir="img/Arteria/Solutions/" width="907px" height="450px" >}}
 
 
 <!-- ![Solutions](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->
