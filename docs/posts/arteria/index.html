@@ -19,7 +19,7 @@
     
     
     
-    <link rel="stylesheet" href="https://Ceici92.github.io/CeciliasPortofolio/css/styles.min.53cc79d02b8f4b37a1d9fe32955989a5d0125e2c7bcf3225232c61c5c53124b7.css" integrity="sha256-U8x50CuPSzeh2f4ylVmJpdASXix7zzIlIyxhxcUxJLc=">
+    <link rel="stylesheet" href="https://Ceici92.github.io/CeciliasPortofolio/css/styles.min.d7d47b5ebac38f5592f99e1b337a965876f3dcbdf3207233e437c49598527681.css" integrity="sha256-19R7XrrDj1WS+Z4bM3qWWHbz3L3zIHIz5DfElZhSdoE=">
     
     <link id="dark-mode-theme" rel="stylesheet" href="/CeciliasPortofolio/css/darker.min.css" async disabled>
     <link href="/CeciliasPortofolio/css/blonde.min.css" rel="stylesheet" type="text/css" media="print"
@@ -27,11 +27,12 @@
     
 
 
-	
 
-<meta name="description" content="">
+<meta name="description" content="Between my fisrt and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE. This startup of 15 employees aim to make profitable the infrastructures of RTE, by reabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.
+For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.">
 <meta property="og:site_name" content="Cecilia Gomes">
-<meta property="og:description" content="">
+<meta property="og:description" content="Between my fisrt and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE. This startup of 15 employees aim to make profitable the infrastructures of RTE, by reabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.
+For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.">
 <meta property="og:url" content="https://Ceici92.github.io/CeciliasPortofolio/posts/arteria/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
@@ -40,7 +41,8 @@
 
 <link rel="canonical" href="https://Ceici92.github.io/CeciliasPortofolio/posts/arteria/">
 
-<meta name="twitter:description" content="">
+<meta name="twitter:description" content="Between my fisrt and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE. This startup of 15 employees aim to make profitable the infrastructures of RTE, by reabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.
+For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.">
 <meta property="article:published_time" content="2021-05-19T10:11:02&#43;02:00">
 <meta property="article:updated_time" content="2021-05-19T10:11:02&#43;02:00">
 
@@ -128,7 +130,394 @@
 <div class="grid grid-cols-3 gap-4">
     <div class="bg-white col-span-3 lg:col-span-2 p-5">
         <h1 class="title text-4xl">Arteria</h1>
-        <div class="content py-1"></div>
+        <div class="content py-1"><p>Between my fisrt and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
+This startup of 15 employees aim to make profitable the infrastructures of RTE, by reabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.</p>
+<p>For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.
+My mission was to design and implement the customers' dashboard on the interface, and to provide the best work I could, I followed those steps:</p>
+<h2 id="study-of-the-existing">Study of the existing</h2>
+<p>I started by analysing the different types of clients and data collected, and the existing interface.</p>
+<h3 id="clients-and-data">Clients and data</h3>
+<p>Two main main domains are represented in the inteface: agriculture and smart cities.</p>
+<p>In the agriculture, two types of clients exist: the cooperative with data from different farms, and agricultors with less data and more proximate crops.
+The cooperative needs to easily see the state of the crops or the silos in the different territories, especially as they may collect their content once they are full.
+The agricultors may have different types of activities: some want to see the data from their crops (temperature, humidity, luminosity, CO2), others from their meteo stations (temperature, pression, wind direction and velocity, humidity, pluviometry), or their silos (capacity, occupancy rate, content type), or all that !</p>
+<p>For the smart cities, the clients needs to easily understand the data of the different rooms or floors, and have both precise views of each room and a general one of all the building.</p>
+<h3 id="the-interface">The interface</h3>
+<p>The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
+Therefore, I did not have to code entirelly a new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.</p>
+<p>The interface was at its premice, and only had one type of dashboard for all the agricultors clients.
+Appart from the lack of distincion between the activities of the agricultors, at first sigh the client may not see the information he wants.</p>
+<p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Dashboard1.JPG" alt="Dashboard"></p>
+<p>As for the widgets, the same one was used to represent the temperature, humidity, and the occupancy rate of a silo; which made it difficult to easily differentiate the values.</p>
+<p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/SiloWidgets.JPG" alt="Widgets"></p>
+<p>Besides, some graphics could be hard to read for customers that are not used to IoT.</p>
+<p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/GraphicWidget.JPG" alt="Widgets"></p>
+<h2 id="research">Research</h2>
+<p>After discerning the needs and the existing problems, I made research to look at what was done it terms of dashboard or widgets, and what could be done with thingsboard or by code.
+You can see below different moodboards that I created.</p>
+<!-- raw HTML omitted -->
+<h2 id="brainstorming">Brainstorming</h2>
+<p>Once I had all this aspects in mind, I shared them with my tutor, and we reunited for brainstorming sessions.
+We used scenarios, personas, and storyboards to obtain a clear view of our objectives.</p>
+<h2 id="sketching-and-prototyping">Sketching and Prototyping</h2>
+<p>After having a clear view of where we were going, I started to sketch the dashboards and widgets I imagined, along with their information architectures.</p>
+<p>Once my tutor and I were happy with my ideas, I started to create the dashboards and their widgets on Thingsboard.</p>
+<p>To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strenghten my skills in html, css and javascript, to create new ones.<br>
+I also created new icons on Photoshop and Illustrator, to create more representative widgets.
+For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specic site or area.</p>
+
+
+
+
+
+
+
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 907px;
+    height: 500px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 907px;
+    height: 500px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 907px;
+    height: 500px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/BeforeAfter.JPG);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Hand-madeIcons.JPG);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+<p>Unfortunately, I was not able to make potential users test my dashboards.
+However I shared my creations with my team of 4, and reajusted them accordingly.</p>
+<h2 id="solutions-and-sharing">Solutions and Sharing</h2>
+<p>For the agriculture, I conceived 4 types of dashboards, you can swipe bellow to see the different dashboard I produced.</p>
+<p>The fisrt one is for a cooperative, and displays a general view of different sites ; if the user clicks on an icon on the map he accesses the specific dashboard of the site.
+Then, I made a dashboard for each type of data: the first one is for the monitoring of a meteo statino, the second one for the maintenance of silos (you can see below 2 variants of it), and the third one is for the monitoring of agricultural lands.</p>
+<p>The two following dashboards are for the smart cities: one with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accessses the second dashboard where the data of the different sensors of the room are displayed.</p>
+
+
+
+
+
+
+
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 907px;
+    height: 500px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 907px;
+    height: 500px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 907px;
+    height: 500px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriCooperative.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriMeteo.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriSilo.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriSilo2.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgroGeneral.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/SmartCity1.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/SmartCity2.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/Widgets.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/Widgets2.png);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+<!-- raw HTML omitted -->
+<p>Furthemore, not only did I let them those dashboards, but I also prepared a presentation, a document and slides to enable them to change the data and to adapt the dashboards to the new consumers.</p>
+</div>
     </div>
     <div class="hidden lg:block lg:col-span-1">
         
