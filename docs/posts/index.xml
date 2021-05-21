@@ -47,15 +47,5 @@ For my internship, I integrated a team of 4 dedicated to provide connected senso
     We decided to make an AR application in connection with art, and we took advantage of this magnific fresco painted by students of our school, children of several activity centre in Evry, and the street artist Vince. The creation of the fresco was an excuse to begin a dialogue around art and the environment, between the students and the children.</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://Ceici92.github.io/CeciliasPortofolio/posts/my-first-post/</link>
-      <pubDate>Wed, 24 Mar 2021 23:36:26 +0100</pubDate>
-      
-      <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/my-first-post/</guid>
-      <description>This is me
-#slide-window {position: relative;width: 907px;height: 510px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 907px;height: 510px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.66s ease;-webkit-transition: all 0.66s ease;}.slide {list-style: none;position: relative;float: left;margin: 0;padding: 0;width: 907px;height: 510px;background: #ccc;text-align: center;line-height: 100%;background-size: cover;background-position: 50% 50%;color: #fff;-webkit-transform: translate3d(0px, 0px, 0px);-webkit-transform-style: preserve-3d;}.</description>
-    </item>
-    
   </channel>
 </rss>
