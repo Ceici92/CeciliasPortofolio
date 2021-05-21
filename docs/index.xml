@@ -6,7 +6,17 @@
     <description>Recent content on Cecilia Gomes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 May 2021 10:11:02 +0200</lastBuildDate><atom:link href="https://Ceici92.github.io/CeciliasPortofolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 14:28:25 +0200</lastBuildDate><atom:link href="https://Ceici92.github.io/CeciliasPortofolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EntrepreneurChallenge</title>
+      <link>https://Ceici92.github.io/CeciliasPortofolio/posts/entrepreneurchallenge/</link>
+      <pubDate>Fri, 21 May 2021 14:28:25 +0200</pubDate>
+      
+      <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/entrepreneurchallenge/</guid>
+      <description>During my second year at the engineering school Telecom SudParis, I took part in the &amp;ldquo;Entrepreneur Challenge&amp;rdquo; organized by its startup incubator.
+With a team of six, we had one week to imagine an innovative startup, and to produce a fifteen-page document with: the problem our start-up would answer, information about the market, a description of the competitors, a marketing and comercial plan, how we would put in place our somlution, the organisation of its launching, and financial viability arguments.</description>
+    </item>
+    
     <item>
       <title>Arteria</title>
       <link>https://Ceici92.github.io/CeciliasPortofolio/posts/arteria/</link>
@@ -28,10 +38,10 @@ For my internship, I integrated a team of 4 dedicated to provide connected senso
     
     <item>
       <title>Street AR</title>
-      <link>https://Ceici92.github.io/CeciliasPortofolio/posts/post2/</link>
+      <link>https://Ceici92.github.io/CeciliasPortofolio/posts/streetar/</link>
       <pubDate>Tue, 11 May 2021 19:46:48 +0200</pubDate>
       
-      <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/post2/</guid>
+      <guid>https://Ceici92.github.io/CeciliasPortofolio/posts/streetar/</guid>
       <description>As a transversal project during my master 2 in Virtual and Augmented Reality, I created an AR application dedicated to one fresco.
     We decided to make an AR application in connection with art, and we took advantage of this magnific fresco painted by students of our school, children of several activity centre in Evry, and the street artist Vince. The creation of the fresco was an excuse to begin a dialogue around art and the environment, between the students and the children.</description>
     </item>
