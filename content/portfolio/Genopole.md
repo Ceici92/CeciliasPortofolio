@@ -8,7 +8,7 @@ image: "img/Genopole/Entree.png"
 
 &nbsp;
 
-The Genopole in Evry is a bioparc dedicated to biotechnologies. Research laboratories, companies and a hospital are spread in its 5 campuses.
+Evry's Genopole is a bioparc dedicated to biotechnologies, divided in 5 campuses, where research laboratories, companies and a hospital are spread.
 To enable researchers or entrepreneurs to visualise the bioparc at distance, the employees of the Genopole wanted to enable a **visit of the campuses in Virtual Reality**. 
 Alongside two colleagues, we decided to take part in this project during our 2nd year at the engineering school Telecom SudParis.
 
@@ -20,7 +20,7 @@ However, due to the lockdowns, we did not have access to a virtual reality heads
 
 You can find below a video representative of the virtual visit through the application :
 
-{{< youtube lAcCPKh1UKo >}}    
+{{< youtube MwDpSZfOxWc >}}    
 
 &nbsp;
 

@@ -134,52 +134,78 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Customers&#39; Dashboards</h1>
-         <p>Between my fisrt and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
-This startup of 15 employees aim to make profitable the infrastructures of RTE, by reabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.</p>
-<p>For my internship, I integrated a team of 4 dedicated to provide connected sensors, connectivity and a web interface to agricultors and small cities.
-My mission was to design and implement the customers' dashboard on the interface, and to provide the best work I could, I followed those steps:</p>
+         <ul>
+<li><strong>The company:</strong></li>
+</ul>
+<p>Between my first and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
+This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.</p>
+<ul>
+<li><strong>My mission:</strong></li>
+</ul>
+<p>For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmerss and small cities.
+My mission was to design and implement the customers' dashboard on the interface, and to do so I followed those steps:</p>
 <p> </p>
-<h3 id="study-of-the-existing">Study of the existing</h3>
+<h2 id="study-of-the-existing">Study of the existing</h2>
 <p>I started by analysing the different types of clients and data collected, and the existing interface.</p>
-<h2 id="clients-and-data">Clients and data</h2>
-<p>Two main main domains are represented in the inteface: agriculture and smart cities.</p>
-<p>In the agriculture, two types of clients exist: the cooperative with data from different farms, and agricultors with less data and more proximate crops.
+<h3 id="clients-and-data">Clients and data</h3>
+<p>Two main domains are represented in the interface: <strong>agriculture</strong> and <strong>smart cities</strong>.</p>
+<blockquote>
+<p>In the <strong>agriculture</strong>, two types of clients exist: the cooperative with data from different farms, and farmerss with less data and more proximate crops.
 The cooperative needs to easily see the state of the crops or the silos in the different territories, especially as they may collect their content once they are full.
-The agricultors may have different types of activities: some want to see the data from their crops (temperature, humidity, luminosity, CO2), others from their meteo stations (temperature, pression, wind direction and velocity, humidity, pluviometry), or their silos (capacity, occupancy rate, content type), or all that !</p>
-<p>For the smart cities, the clients needs to easily understand the data of the different rooms or floors, and have both precise views of each room and a general one of all the building.</p>
-<h2 id="the-interface">The interface</h2>
+The farmerss may have different types of activities: some want to see the data from their crops (temperature, humidity, luminosity, CO2), others from their weather stations (temperature, pression, wind direction and velocity, humidity, pluviometry), or their silos (capacity, occupancy rate, content type), or all that !</p>
+</blockquote>
+<blockquote>
+<p>For the <strong>smart cities</strong>, the clients are mostly city councils.
+They install captors in an entire building to regulate the energy consumption.
+Thus, they need to instantly see the state of the entire building, but also to be able to navigate and have a precise view of each floor or each room.</p>
+</blockquote>
+<h3 id="the-thingsboards-interface">The Thingsboard&rsquo;s interface</h3>
 <p>The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
-Therefore, I did not have to code entirelly a new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.</p>
-<p>The interface was at its premice, and only had one type of dashboard for all the agricultors clients.
-Appart from the lack of distincion between the activities of the agricultors, at first sigh the client may not see the information he wants.</p>
+Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.</p>
+<p>The interface was at its premise and only had one type of dashboard for all the clients.
+Apart from the lack of distinction between the activities of the farmerss, at first sigh the client may not see the information he wants.</p>
 <p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Screenshots/Dashboard1.JPG" alt="Dashboard"></p>
 <p>For the widgets, the same one was used to represent the temperature, humidity, and the occupancy rate of a silo; which made it difficult to easily differentiate the values.
 Besides, some graphics could be hard to read for customers that are not used to it.</p>
 <p> </p>
-<h3 id="research">Research</h3>
-<p>After discerning the needs and the existing problems, I made research to look at what was done it terms of dashboard or widgets, and what could be done with thingsboard or by code.
-You can see below different moodboards that I created.</p>
+<h2 id="research--brainstorming">Research &amp; Brainstorming</h2>
+<p>After discerning the needs and the existing problems, I made research to look at what was done it terms of dashboard or widgets, and what could be done with thingsboard or by code.</p>
 <!-- raw HTML omitted -->
-<p> </p>
-<h3 id="brainstorming">Brainstorming</h3>
-<p>Once I had all this aspects in mind, I shared them with my tutor, and we reunited for brainstorming sessions.
+<p>Once I had all these aspects in mind, I shared them with my tutor, and we reunited for brainstorming sessions.
 We used scenarios, personas, and storyboards to obtain a clear view of our objectives.</p>
 <p> </p>
-<h3 id="sketching-and-prototyping">Sketching and Prototyping</h3>
+<h2 id="sketching-and-prototyping">Sketching and Prototyping</h2>
 <p>After having a clear view of where we were going, I started to sketch the dashboards and widgets I imagined, along with their information architectures.</p>
 <p>Once my tutor and I were happy with my ideas, I started to create the dashboards and their widgets on Thingsboard.</p>
-<p>To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strenghten my skills in html, css and javascript, to create new ones.<br>
-I also created new icons on Photoshop and Illustrator, to create more representative widgets.
-For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specic site or area.</p>
+<ul>
+<li><strong>New Icons:</strong></li>
+</ul>
+<p>I also created new icons on Photoshop and Illustrator, to create more representative widgets.
+For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specific site or area.</p>
 <p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Hand-madeIcons.JPG" alt="Prototypes"></p>
+<ul>
+<li><strong>New Widgets:</strong></li>
+</ul>
+<p>To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strengthen my skills in html, css and javascript, to create new ones.</p>
+<p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Widgets.JPG" alt="Prototypes"></p>
 <p>Unfortunately, I was not able to make potential users test my dashboards.
-However I shared my creations with my team of 4, and reajusted them accordingly.</p>
+However I shared my creations with my team of 4, and readjusted them accordingly.</p>
 <p> </p>
-<h3 id="solutions-and-sharing">Solutions and Sharing</h3>
-<p>For the agriculture, I conceived 4 types of dashboards, you can swipe bellow to see the different dashboard I produced.</p>
-<p>The fisrt one is for a cooperative, and displays a general view of different sites ; if the user clicks on an icon on the map he accesses the specific dashboard of the site.
-Then, I made a dashboard for each type of data: the first one is for the monitoring of a meteo statino, the second one for the maintenance of silos (you can see below 2 variants of it), and the third one is for the monitoring of agricultural lands.</p>
-<p>The two following dashboards are for the smart cities: one with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accessses the second dashboard where the data of the different sensors of the room are displayed.</p>
+<h2 id="solutions">Solutions</h2>
+<p>You can find below the dashboards I produced.</p>
+<ul>
+<li>I conceived 4 types of dashboard for the <strong>agriculture</strong>:</li>
+</ul>
+<blockquote>
+<p>The first one is for a cooperative, and displays a general view of different sites, if the user clicks on an icon on the map, he accesses the specific dashboard of the site.
+Then, there are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos (you can see below 2 variants of it), and the third one is for the monitoring of agricultural lands.</p>
+</blockquote>
+<ul>
+<li>The last two dashboards are for the <strong>smart cities</strong>:</li>
+</ul>
+<blockquote>
+<p>One with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accesses the second dashboard where the data of the different sensors of the room are displayed.</p>
+</blockquote>
 
 
 
@@ -353,7 +379,6 @@ sliderJQuery(function( $ ) {
 });
 </script>
 <!-- raw HTML omitted -->
-<p>Furthemore, not only did I let them those dashboards, but I also prepared a presentation, a document and slides to enable them to change the data and to adapt the dashboards to the new consumers.</p>
 
          
       </div>

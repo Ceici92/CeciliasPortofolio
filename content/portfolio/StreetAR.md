@@ -1,16 +1,13 @@
 ---
 title: "Street AR"
-date: 2021-05-11T19:46:48+02:00
+date: 2021-05-21T14:28:25+02:00
 draft: false
 image: "img/StreetAR.png"
 
 ---
 
-&nbsp;
-
 As a transversal project during my master 2 in Virtual and Augmented Reality, I created an AR application dedicated to one fresco.    
 
-&nbsp;
 
 {{< youtube sd7jM1GwpIY >}}    
 

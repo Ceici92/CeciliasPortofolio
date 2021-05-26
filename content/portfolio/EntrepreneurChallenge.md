@@ -1,6 +1,6 @@
 ---
 title: "Cultural Platform & Interactive Visits"
-date: 2021-05-21T14:28:25+02:00
+date: 2021-05-11T19:46:48+02:00
 draft: false
 image: "img/EntrepreneurChallenge/DesktopViews/UVisitePersonnage.png"
 ---
@@ -13,27 +13,24 @@ its competitors, the marketing and commercial plan, its implementation, the orga
 Below, I describe some steps of the reflexion around the start-up.
 
 
-&nbsp;
 
-### Our idea
+## Our idea
 
 As six students passionate about the world of art, and studying numerical technologies, we decided to imagine a solution mixing both.
 
-&nbsp;
 
-## The Problem 
+#### The Problem: 
 
 Museums, to maintain their frequentation and their role as a source of knowledge, have to adapt themselves to the public, acquire more visibility and maintain their interest. 
 
 Well, with the omnipresence of the digital, we assist to a real demand of visitors to integrate digital technologies in the cultural experience.
 They need to access easily to information about several museums and testimonies.
 
-&nbsp;
 
-## Our solution
+#### Our solution:
 
 
-**Our solution consists of the creation of a community platform binding museums and visitors.**
+**Our solution consists of the creation of a community platform binding museums and visitors, with the exclusive acess to immersive visit packages.**
 
 In the same platform, the users would have access to a map of the existing museums in specific zones, to news related to their interests, to a community of internauts sharing their recommendations, 
 to a personal community of their closed ones, to a shazam of arts to know the essential about a piece of art in one picture and then to discover the information about the museum in which it is. 
@@ -47,7 +44,7 @@ At the end, a visit recap will be sharable with the community.
 
 &nbsp;
 
-### The targets
+## The targets
 
 Then, we define more precisely the targets of our solution. 
 To do so, we were inspired by our own profiles, and we looked for individuals both interested in art and technology.
@@ -94,7 +91,7 @@ Thus, private or public, museum or historical monument, the mission is the same:
 
 &nbsp;
 
-### The Competitors
+## The Competitors
 
 We also made researches about our BtoB competitors: French mixed-reality start-ups that offer immersive experiences in museums, and we identified Google Arts & Culture and Smartify as our major competitors as a platform.
 
@@ -103,18 +100,18 @@ We investigated their solutions and results in order to offer the most seductive
 
 &nbsp;
 
-### Set-up of our solution
+## Set-up of our solution
 
 **The platform would be available on smartphone and on the web**.
 
 A colleague and I were focused on the creation of the following illustration.
-To imagine how our platform will be organised and what it will look like, we started by doing some sketches. 
+To imagine how our platform will be organised and what it will look like, we started by doing some **sketches**. 
 
 ![Sketch](https://ceici92.github.io/CeciliasPortofolio/img/EntrepreneurChallenge/Sketch.jpg)
 
 &nbsp;
 
-Once we were satisfied, we created wireframes of the mobile view with **Marvel**.
+Once we were satisfied, we created **wireframes** of the mobile view with **Marvel**.
 They illustrate the **user journey** in our platform: the creation of an account, the news' page with expositions to discover, the personalised welcoming page, the chat groups.
 
 ![Wireframes](https://ceici92.github.io/CeciliasPortofolio/img/EntrepreneurChallenge/Wireframes.png)
