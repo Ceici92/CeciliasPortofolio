@@ -19,9 +19,8 @@ googleAnalytics = ""
   #description = "Hello ! It is Cecilia"
   #copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "![Me](https://ceici92.github.io/CeciliasPortofolio/img/me.jpg)",
-    "I am an experience designer in my final year internship for the engineering school Telecom SudParis.",
-    "Currently based in Paris."
+    "I am an experience designer in my last year at the French engineering school Telecom SudParis.",
+    "Currently based in Paris, I am doing my final year internship at Dassault Systemes."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
