@@ -60,20 +60,19 @@ They are familiar with the digital technologies.
 The use of our application could be common or occasional, thus, we elaborated **two personas**.
 
 
-First, **Mathilde**, is a student of 20 years old in an engineering school.
-She is passionate about art and culture since she is little. 
-She even took part in the association dedicated to arts in her school.
-She likes to talk and discuss about art and philosophy.
-Curious, she is always looking into expand her knowledge.
-She practices diverse arts and share her results on the social medias.
-She is familiar with the numerical tools.
-Curious to try to new experiences, she is opened to experiment immersive visits in museums that she visits frequently.
+> **Mathilde**, is a student of 20 years old in an engineering school.
+> She is passionate about art and culture since she is little. 
+> She likes to talk and discuss about art and philosophy.
+> Curious, she is always looking into expand her knowledge.
+> She practices diverse arts and share her results on the social medias.
+> She is familiar with the numerical tools.
+> Curious to try to new experiences, she is opened to experiment immersive visits in museums that she visits frequently.
 
-Secondly, **Jean**, a young executive, is aged of 45 years old. 
-He is passionate about history and he visits several monuments and historical places during the year.
-He always travels with his two children and his wife to visit historical sites, in order to share his passion with them.
-Familiar with numerical tools, he looks into the recommendations online before scheduling a visit. 
-Searching for new experiences enabling him to live his passion, and to share it with his children, the idea of immersive experiences interests him particularly.
+> **Jean**, a young executive, is aged of 45 years old. 
+> He is passionate about history and he visits several monuments and historical places during the year.
+> He always travels with his two children and his wife to visit historical sites, in order to share his passion with them.
+> Familiar with numerical tools, he looks into the recommendations online before scheduling a visit. 
+> Searching for new experiences enabling him to live his passion, and to share it with his children, the idea of immersive experiences interests him particularly.
 
 &nbsp;
 
@@ -81,12 +80,12 @@ As for our **BtoB offer**, it concerns cultural institutions.
 Our clients are public or private museums, and the monuments with a strong historical value, that want to enrich and enhance their visitors' experience.
 Once again, we elaborated **two personas**.
 
-First, a Parisian museum considered as a public institution, having the appellation "Musée de France".
-The museum has for mission to make its collection accessible to the widest public and is looking for ways to enhance its visitors' experience, and this is why it called us.
+> **A Parisian museum** considered as a public institution, having the appellation "Musée de France".
+> The museum has for mission to make its collection accessible to the widest public and is looking for ways to enhance its visitors' experience, and this is why it called us.
 
 
-Secondly, a private company ensuring: the management of historical monuments and museums, the creation of art centers, and the organisation of temporarily digital immersive exhibitions.
-The company has a strong will to innovate and enhance consistently the experience of the visitors.
+> **A private company** ensuring: the management of historical monuments and museums, the creation of art centers, and the organisation of temporarily digital immersive exhibitions.
+> The company has a strong will to innovate and enhance consistently the experience of the visitors.
 
 &nbsp;
 
