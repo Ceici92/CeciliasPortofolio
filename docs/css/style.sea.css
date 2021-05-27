@@ -24,12 +24,12 @@ section {
   padding-bottom: 90px;
 }
 section.background-gray-lighter {
-  background: #cdcdcd;
+  background: #ff0000;
 }
 section.background-gray-lightest {
   background: #f7f7f7;
-  border-top: solid 1px #cdcdcd;
-  border-bottom: solid 1px #cdcdcd;
+  border-top: solid 1px #ff0000;
+  border-bottom: solid 1px #ff0000;
 }
 section.background-secondary {
   background: #4fb0c6;
@@ -101,7 +101,7 @@ section.background-secondary {
   color: #999999;
 }
 .text-gray-lighter {
-  color: #cdcdcd;
+  color: #ff0000;
 }
 @media (max-width: 991px) {
   .text-center-mobile {
@@ -1214,7 +1214,7 @@ STYLE SWITCHER FOR DEMO
   bottom: 240px;
   left: 0;
   background: #fff;
-  border: solid 1px #cdcdcd;
+  border: solid 1px #ff0000;
   z-index: 2000;
 }
 #style-switch h4 {
@@ -1234,7 +1234,7 @@ STYLE SWITCHER FOR DEMO
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
-  background-color: #cdcdcd;
+  background-color: #ff0000;
 }
 .nav > li.disabled > a {
   color: #999999;
@@ -1246,7 +1246,7 @@ STYLE SWITCHER FOR DEMO
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-  background-color: #cdcdcd;
+  background-color: #ff0000;
   border-color: #379392;
 }
 .nav-tabs {
@@ -1257,7 +1257,7 @@ STYLE SWITCHER FOR DEMO
   border-radius: 0 0 0 0;
 }
 .nav-tabs > li > a:hover {
-  border-color: #cdcdcd #cdcdcd #dddddd;
+  border-color: #ff0000 #ff0000 #dddddd;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
@@ -1610,7 +1610,7 @@ hr {
   margin-top: 24px;
   margin-bottom: 24px;
   border: 0;
-  border-top: 1px solid #cdcdcd;
+  border-top: 1px solid #ff0000;
 }
 .progress {
   overflow: hidden;
@@ -1828,7 +1828,7 @@ label {
 /* pager*/
 .pager {
   margin: 24px 0;
-  border-top: solid 1px #cdcdcd;
+  border-top: solid 1px #ff0000;
   padding-top: 24px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
