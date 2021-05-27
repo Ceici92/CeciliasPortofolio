@@ -27,7 +27,7 @@ section.background-gray-lighter {
   background: #ff0000;
 }
 section.background-gray-lightest {
-  background: #f7f7f7;
+  background: #FFE000;
   border-top: solid 1px #ff0000;
   border-bottom: solid 1px #ff0000;
 }
@@ -997,7 +997,7 @@ a:active {
   color: #0099FF;
 }
 .box-simple.box-dark .icon {
-  color: #f7f7f7;
+  color: #FFE000;
   border-color: transparent;
   font-size: 70px;
 }
