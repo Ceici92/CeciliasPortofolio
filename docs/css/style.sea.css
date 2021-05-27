@@ -1263,7 +1263,7 @@ STYLE SWITCHER FOR DEMO
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: #f4f4f4;
+  background-color: #459337;
   border: 1px solid #dddddd;
 }
 .nav-pills > li > a {
@@ -1291,7 +1291,7 @@ STYLE SWITCHER FOR DEMO
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #f4f4f4;
+    border-bottom-color: #459337;
   }
 }
 /* navbar */
@@ -1587,7 +1587,7 @@ body {
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
-  background-color: #f4f4f4;
+  background-color: #459337;
 }
 a {
   color: #379392;
