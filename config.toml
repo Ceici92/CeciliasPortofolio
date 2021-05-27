@@ -15,7 +15,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "pink"
   #description = "Hello ! It is Cecilia"
   #copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
