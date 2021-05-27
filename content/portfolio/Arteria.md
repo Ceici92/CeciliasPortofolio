@@ -8,13 +8,13 @@ image: "img/Arteria/AgriCooperative.png"
 - **The company:**
 
 Between my first and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
-This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.
+This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and **deploying optical fibers and an IoT (Internet of Things) network**.
 
 
 - **My mission:**
 
-For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmerss and small cities.
-My mission was to design and implement the customers' dashboard on the interface, and to do so I followed those steps:
+For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmers and small cities.
+My mission was to **design and implement the customers' dashboard on the interface**, and to do so I followed those steps:
 
 &nbsp;
 
@@ -23,9 +23,9 @@ My mission was to design and implement the customers' dashboard on the interface
 I started by analysing the different types of clients and data collected, and the existing interface.
 
 
-### Clients and data
+#### Clients and data
 
-Two main domains are represented in the interface: **agriculture** and **smart cities**.
+**Two main domains are represented in the interface: agriculture and smart cities**.
 
 > In the **agriculture**, two types of clients exist: the cooperative with data from different farms, and farmerss with less data and more proximate crops.
 The cooperative needs to easily see the state of the crops or the silos in the different territories, especially as they may collect their content once they are full.
@@ -37,13 +37,13 @@ They install captors in an entire building to regulate the energy consumption.
 Thus, they need to instantly see the state of the entire building, but also to be able to navigate and have a precise view of each floor or each room.
 
 
-### The Thingsboard's interface 
+#### The Thingsboard's interface 
 
 The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
-Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.
+Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (**through html, css, and javaScript**) entirely new widgets.
 
 The interface was at its premise and only had one type of dashboard for all the clients.
-Apart from the lack of distinction between the activities of the farmerss, at first sigh the client may not see the information he wants.
+Apart from the lack of distinction between the activities of the farmers, at first sigh the client may not see the information he wants.
 
 ![Dashboard](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Screenshots/Dashboard1.JPG)
 
@@ -76,7 +76,7 @@ Once my tutor and I were happy with my ideas, I started to create the dashboards
 
 - **New Icons:**
 
-I also created new icons on Photoshop and Illustrator, to create more representative widgets.
+**I created new icons on Photoshop and Illustrator, to create more representative widgets.**
 For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specific site or area.  
 
 ![Prototypes](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Hand-madeIcons.JPG)
@@ -84,13 +84,16 @@ For example, I created the pins' icons on the map widget, to enable the user to 
 
 - **New Widgets:**
 
+**I also created new widgets that better represented the value displayed, or that could represent values that were not yet displayed with the existing widgets** (such as a simple alert, or the name of the owner of a site).
 To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strengthen my skills in html, css and javascript, to create new ones.  
+
+
+For example, I created the following widgets to diverdify visually the jauge that were represented, and to display new values: the baterie of a sensor and the name of the owner of the site.
 
 ![Prototypes](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Widgets.JPG)
 
 
-Unfortunately, I was not able to make potential users test my dashboards. 
-However I shared my creations with my team of 4, and readjusted them accordingly.
+I was not able to make potential users test my dashboards, however I shared my creations with my team of 4, and readjusted them accordingly.
 
 &nbsp;
 
@@ -99,18 +102,19 @@ However I shared my creations with my team of 4, and readjusted them accordingly
 
 You can find below the dashboards I produced.
 
-- I conceived 4 types of dashboard for the **agriculture**:
+- **I conceived 4 types of dashboard for the agriculture**:
 
->The first one is for a cooperative, and displays a general view of different sites, if the user clicks on an icon on the map, he accesses the specific dashboard of the site.
-Then, there are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos (you can see below 2 variants of it), and the third one is for the monitoring of agricultural lands.
+>There are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos, and the third one is for the monitoring of agricultural lands.
+<!-- Then, the fourth dashboard is for a cooperative, and displays the informaion of one of its farmers.-->
+Then, the fourth dashboard is a general view of a site that has these three kinds of activites.
 
 
-- The last two dashboards are for the **smart cities**: 
+- **The last two dashboards are for the smart cities**: 
  
 >One with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accesses the second dashboard where the data of the different sensors of the room are displayed.
 
 
-{{< gallery-slider dir="img/Arteria/Solutions/" width="907px" height="450px" >}}
+{{< gallery-slider dir="img/Arteria/Solutions2/" width="907px" height="450px" >}}
 
 
 <!-- ![Solutions](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->

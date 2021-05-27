@@ -98,17 +98,17 @@
 <li><strong>The company:</strong></li>
 </ul>
 <p>Between my first and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
-This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and deploying optical fibers and an IoT (Internet of Things) network.</p>
+This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and <strong>deploying optical fibers and an IoT (Internet of Things) network</strong>.</p>
 <ul>
 <li><strong>My mission:</strong></li>
 </ul>
-<p>For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmerss and small cities.
-My mission was to design and implement the customers' dashboard on the interface, and to do so I followed those steps:</p>
+<p>For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmers and small cities.
+My mission was to <strong>design and implement the customers' dashboard on the interface</strong>, and to do so I followed those steps:</p>
 <p> </p>
 <h2 id="study-of-the-existing">Study of the existing</h2>
 <p>I started by analysing the different types of clients and data collected, and the existing interface.</p>
-<h3 id="clients-and-data">Clients and data</h3>
-<p>Two main domains are represented in the interface: <strong>agriculture</strong> and <strong>smart cities</strong>.</p>
+<h4 id="clients-and-data">Clients and data</h4>
+<p><strong>Two main domains are represented in the interface: agriculture and smart cities</strong>.</p>
 <blockquote>
 <p>In the <strong>agriculture</strong>, two types of clients exist: the cooperative with data from different farms, and farmerss with less data and more proximate crops.
 The cooperative needs to easily see the state of the crops or the silos in the different territories, especially as they may collect their content once they are full.
@@ -119,11 +119,11 @@ The farmerss may have different types of activities: some want to see the data f
 They install captors in an entire building to regulate the energy consumption.
 Thus, they need to instantly see the state of the entire building, but also to be able to navigate and have a precise view of each floor or each room.</p>
 </blockquote>
-<h3 id="the-thingsboards-interface">The Thingsboard&rsquo;s interface</h3>
+<h4 id="the-thingsboards-interface">The Thingsboard&rsquo;s interface</h4>
 <p>The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
-Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (through html, css, and javaScript) entirely new widgets.</p>
+Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (<strong>through html, css, and javaScript</strong>) entirely new widgets.</p>
 <p>The interface was at its premise and only had one type of dashboard for all the clients.
-Apart from the lack of distinction between the activities of the farmerss, at first sigh the client may not see the information he wants.</p>
+Apart from the lack of distinction between the activities of the farmers, at first sigh the client may not see the information he wants.</p>
 <p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Screenshots/Dashboard1.JPG" alt="Dashboard"></p>
 <p>For the widgets, the same one was used to represent the temperature, humidity, and the occupancy rate of a silo; which made it difficult to easily differentiate the values.
 Besides, some graphics could be hard to read for customers that are not used to it.</p>
@@ -140,28 +140,30 @@ We used scenarios, personas, and storyboards to obtain a clear view of our objec
 <ul>
 <li><strong>New Icons:</strong></li>
 </ul>
-<p>I also created new icons on Photoshop and Illustrator, to create more representative widgets.
+<p><strong>I created new icons on Photoshop and Illustrator, to create more representative widgets.</strong>
 For example, I created the pins' icons on the map widget, to enable the user to recognize what kind of sensors are on this specific site or area.</p>
 <p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Hand-madeIcons.JPG" alt="Prototypes"></p>
 <ul>
 <li><strong>New Widgets:</strong></li>
 </ul>
-<p>To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strengthen my skills in html, css and javascript, to create new ones.</p>
+<p><strong>I also created new widgets that better represented the value displayed, or that could represent values that were not yet displayed with the existing widgets</strong> (such as a simple alert, or the name of the owner of a site).
+To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strengthen my skills in html, css and javascript, to create new ones.</p>
+<p>For example, I created the following widgets to diverdify visually the jauge that were represented, and to display new values: the baterie of a sensor and the name of the owner of the site.</p>
 <p><img src="https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Widgets.JPG" alt="Prototypes"></p>
-<p>Unfortunately, I was not able to make potential users test my dashboards.
-However I shared my creations with my team of 4, and readjusted them accordingly.</p>
+<p>I was not able to make potential users test my dashboards, however I shared my creations with my team of 4, and readjusted them accordingly.</p>
 <p> </p>
 <h2 id="solutions">Solutions</h2>
 <p>You can find below the dashboards I produced.</p>
 <ul>
-<li>I conceived 4 types of dashboard for the <strong>agriculture</strong>:</li>
+<li><strong>I conceived 4 types of dashboard for the agriculture</strong>:</li>
 </ul>
 <blockquote>
-<p>The first one is for a cooperative, and displays a general view of different sites, if the user clicks on an icon on the map, he accesses the specific dashboard of the site.
-Then, there are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos (you can see below 2 variants of it), and the third one is for the monitoring of agricultural lands.</p>
+<p>There are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos, and the third one is for the monitoring of agricultural lands.</p>
 </blockquote>
+<!-- raw HTML omitted -->
+<p>Then, the fourth dashboard is a general view of a site that has these three kinds of activites.</p>
 <ul>
-<li>The last two dashboards are for the <strong>smart cities</strong>:</li>
+<li><strong>The last two dashboards are for the smart cities</strong>:</li>
 </ul>
 <blockquote>
 <p>One with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accesses the second dashboard where the data of the different sensors of the room are displayed.</p>
@@ -253,12 +255,12 @@ Then, there are one dashboard for each type of data: the first one is for the mo
 
 <div id="slide-window">
     <ol id="slides-list">
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriCooperative.png);"></li>
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriMeteo.png);"></li>
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgriSilo.png);"></li>
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/AgroGeneral.png);"></li>
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/SmartCity1.png);"></li>
-        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions/SmartCity2.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/1AgriMeteo.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/2AgriSilo.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/3AgriAmbiance.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/4AgriExploitation.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/SmartCity1.png);"></li>
+        <li class="slide" style="background-image:url(https://Ceici92.github.io/CeciliasPortofolio/img/Arteria/Solutions2/SmartCity2.png);"></li>
     </ol>
     <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
     <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
