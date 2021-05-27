@@ -37,7 +37,7 @@ section.background-secondary {
   border-bottom: solid 1px #2b7484;
 }
 .section-inverse {
-  color: #fff;
+  color: #0099FF;
 }
 .section-inverse h1,
 .section-inverse h2,
@@ -45,10 +45,10 @@ section.background-secondary {
 .section-inverse h4,
 .section-inverse h5,
 .section-inverse h6 {
-  color: #fff;
+  color: #0099FF;
 }
 .section-inverse .heading:after {
-  background: #fff;
+  background: #0099FF;
 }
 .italic {
   font-style: italic;
@@ -180,7 +180,7 @@ fieldset[disabled] .btn-ghost.active {
 .btn-ghost:active,
 .btn-ghost.active,
 .open .dropdown-toggle.btn-ghost {
-  color: #fff;
+  color: #0099FF;
   background-color: #379392;
   border-color: #379392;
 }
@@ -230,21 +230,21 @@ fieldset[disabled] .btn-ghost-black.active {
 .btn-ghost-black:active,
 .btn-ghost-black.active,
 .open .dropdown-toggle.btn-ghost-black {
-  color: #fff;
+  color: #0099FF;
   background-color: #000;
   border-color: #000;
 }
 .btn-white {
-  color: #ffffff;
+  color: #0099FF;
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #0099FF;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white:active,
 .btn-white.active,
 .open .dropdown-toggle.btn-white {
-  color: #ffffff;
+  color: #0099FF;
   background-color: rgba(0, 0, 0, 0);
   border-color: #e0e0e0;
 }
@@ -269,20 +269,20 @@ fieldset[disabled] .btn-white:active,
 .btn-white[disabled].active,
 fieldset[disabled] .btn-white.active {
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #0099FF;
 }
 .btn-white .badge {
   color: transparent;
-  background-color: #ffffff;
+  background-color: #0099FF;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white:active,
 .btn-white.active,
 .open .dropdown-toggle.btn-white {
-  color: #ffffff;
-  background-color: #fff;
-  border-color: #fff;
+  color: #0099FF;
+  background-color: #0099FF;
+  border-color: #0099FF;
 }
 .icon {
   display: inline-block;
@@ -385,7 +385,7 @@ SIDEBAR + RIGHT COLUMN
   padding-top: 40px;
 }
 .content-column.white-background {
-  background: #fff;
+  background: #0099FF;
   min-height: 100vh;
 }
 .grid {
@@ -578,7 +578,7 @@ p.social {
 }
 p.social a {
   margin: 0 10px 10px 0;
-  color: #fff;
+  color: #0099FF;
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -788,7 +788,7 @@ EKKO LIGHTBOX
   width: 49%;
   height: 100%;
   font-size: 30px;
-  color: #fff;
+  color: #0099FF;
   opacity: 0;
   text-decoration: none !important;
   -webkit-transition: opacity 0.5s;
@@ -805,7 +805,7 @@ a:focus,
 a:active {
   text-decoration: none;
   opacity: 1;
-  color: #fff;
+  color: #0099FF;
 }
 .ekko-lightbox .glyphicon-chevron-left {
   left: 0;
@@ -827,7 +827,7 @@ a:active {
   margin-left: -15px;
 }
 .box-masonry {
-  background: #fff;
+  background: #0099FF;
   margin-bottom: 30px;
   position: relative;
   box-shadow: 0 0 5px #ccc;
@@ -922,7 +922,7 @@ a:active {
   display: block;
   position: absolute;
   content: " ";
-  background: #fff;
+  background: #0099FF;
   opacity: 0;
   width: 100%;
   height: 100%;
@@ -994,7 +994,7 @@ a:active {
   padding: 20px;
   border: dotted 1px #999999;
   background: #555555;
-  color: #fff;
+  color: #0099FF;
 }
 .box-simple.box-dark .icon {
   color: #f7f7f7;
@@ -1002,13 +1002,13 @@ a:active {
   font-size: 70px;
 }
 .box-simple.box-dark h3 {
-  color: #fff;
+  color: #0099FF;
 }
 .box-simple.box-dark h3 a {
-  color: #fff;
+  color: #0099FF;
 }
 .box-simple.box-dark p {
-  color: #fff;
+  color: #0099FF;
 }
 .box-image {
   position: relative;
@@ -1037,17 +1037,17 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  color: #fff;
+  color: #0099FF;
   padding: 0 20px;
 }
 .box-image .name h3 {
-  color: #fff;
+  color: #0099FF;
   text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
 .box-image .name h3 a {
-  color: #fff;
+  color: #0099FF;
   text-decoration: none;
 }
 .box-image .text {
@@ -1061,7 +1061,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  color: #fff;
+  color: #0099FF;
   padding: 0 20px;
 }
 .box-image:hover .bg {
@@ -1082,7 +1082,7 @@ a:active {
 }
 .box-image-text {
   position: relative;
-  background: #fff;
+  background: #0099FF;
   overflow: hidden;
   text-align: center;
   margin: 15px 0;
@@ -1099,7 +1099,7 @@ a:active {
   height: 100%;
   opacity: 0;
   filter: alpha(opacity=0);
-  background: #fff;
+  background: #0099FF;
 }
 .box-image-text .top .logo {
   width: 100%;
@@ -1121,27 +1121,27 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  color: #fff;
+  color: #0099FF;
   padding: 0 20px;
 }
 .box-image-text .top .name h3 {
-  color: #fff;
+  color: #0099FF;
   text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
 .box-image-text .top .name h3 a {
-  color: #fff;
+  color: #0099FF;
   text-decoration: none;
 }
 .box-image-text .top .name h4 {
-  color: #fff;
+  color: #0099FF;
   text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
 .box-image-text .top .name h4 a {
-  color: #fff;
+  color: #0099FF;
   text-decoration: none;
 }
 .box-image-text .top .text {
@@ -1155,7 +1155,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  color: #fff;
+  color: #0099FF;
   padding: 0 20px;
 }
 .box-image-text .content {
@@ -1213,7 +1213,7 @@ STYLE SWITCHER FOR DEMO
   position: fixed;
   bottom: 240px;
   left: 0;
-  background: #fff;
+  background: #0099FF;
   border: solid 1px #ff0000;
   z-index: 2000;
 }
@@ -1272,7 +1272,7 @@ STYLE SWITCHER FOR DEMO
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #ffffff;
+  color: #0099FF;
   background-color: #379392;
 }
 .nav-tabs-justified > li > a {
@@ -1463,7 +1463,7 @@ STYLE SWITCHER FOR DEMO
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #0099FF;
   border-bottom-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -1548,7 +1548,7 @@ STYLE SWITCHER FOR DEMO
 .dropdown-menu {
   z-index: 1000;
   font-size: 14px;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0;
@@ -1571,12 +1571,12 @@ STYLE SWITCHER FOR DEMO
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-  color: #ffffff;
+  color: #0099FF;
   background-color: #379392;
 }
 /* modal */
 .modal-content {
-  background-color: #ffffff;
+  background-color: #0099FF;
   border: 1px solid #999999;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0;
@@ -1667,7 +1667,7 @@ hr {
   border-radius: 0;
 }
 .btn-primary {
-  color: #ffffff;
+  color: #0099FF;
   background-color: #379392;
   border-color: #379392;
 }
@@ -1676,7 +1676,7 @@ hr {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  color: #ffffff;
+  color: #0099FF;
   background-color: #2c7575;
   border-color: #266666;
 }
@@ -1705,7 +1705,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-primary .badge {
   color: #379392;
-  background-color: #ffffff;
+  background-color: #0099FF;
 }
 .btn-transparent {
   color: #555555;
@@ -1752,7 +1752,7 @@ fieldset[disabled] .btn-transparent.active {
 .btn-transparent:focus,
 .btn-transparent:active,
 .btn-transparent.active {
-  background: #ffffff;
+  background: #0099FF;
   color: #379392;
 }
 .btn-lg {
@@ -1799,7 +1799,7 @@ label {
   font-size: 16px;
   line-height: 1.55;
   color: #555555;
-  background-color: #ffffff;
+  background-color: #0099FF;
   background-image: none;
   border: 1px solid #cccccc;
   border-radius: 0;
@@ -1841,14 +1841,14 @@ label {
 }
 .pager li > a,
 .pager li > span {
-  background-color: #ffffff;
+  background-color: #0099FF;
   border: 1px solid #379392;
   border-radius: 0;
 }
 .pager li > a:hover,
 .pager li > a:focus {
   text-decoration: none;
-  color: #fff;
+  color: #0099FF;
   background-color: #379392;
 }
 .pager .disabled > a,
@@ -1856,7 +1856,7 @@ label {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #999999;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border-color: #ddd;
 }
 /* pagination */
@@ -1871,7 +1871,7 @@ label {
   line-height: 1.55;
   text-decoration: none;
   color: #379392;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border: 1px solid #dddddd;
 }
 .pagination > li:first-child > a,
@@ -1900,7 +1900,7 @@ label {
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
   z-index: 2;
-  color: #ffffff;
+  color: #0099FF;
   background-color: #379392;
   border-color: #379392;
 }
@@ -1911,7 +1911,7 @@ label {
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
   color: #999999;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border-color: #dddddd;
 }
 /* responsive utilities */
@@ -2018,7 +2018,7 @@ a.text-primary:hover {
   color: #296e6d;
 }
 .bg-primary {
-  color: #fff;
+  color: #0099FF;
   background-color: #379392;
 }
 a.bg-primary:hover {
@@ -2057,7 +2057,7 @@ address {
 }
 .panel {
   margin-bottom: 24px;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border: 1px solid transparent;
   border-radius: 0;
   -webkit-box-shadow: 0 0 0;
@@ -2068,7 +2068,7 @@ address {
 }
 .panel-default > .panel-heading {
   color: #333333;
-  background-color: #ffffff;
+  background-color: #0099FF;
   border-color: #666666;
 }
 .panel-default > .panel-heading + .panel-collapse .panel-body {
@@ -2081,7 +2081,7 @@ address {
   border-color: #379392;
 }
 .panel-primary > .panel-heading {
-  color: #ffffff;
+  color: #0099FF;
   background-color: #379392;
   border-color: #379392;
 }
@@ -2095,19 +2095,19 @@ address {
   font-weight: 300;
 }
 .panel-primary .panel-title a:hover {
-  color: #fff;
+  color: #0099FF;
   text-decoration: none;
 }
 a.badge:hover,
 a.badge:focus {
-  color: #ffffff;
+  color: #0099FF;
   text-decoration: none;
   cursor: pointer;
 }
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #379392;
-  background-color: #ffffff;
+  background-color: #0099FF;
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
