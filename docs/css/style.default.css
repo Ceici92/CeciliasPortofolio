@@ -98,7 +98,7 @@ section.background-secondary {
   color: #555555;
 }
 .text-gray-light {
-  color: #999999;
+  color: #ff0000;
 }
 .text-gray-lighter {
   color: #cdcdcd;
@@ -347,7 +347,7 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
+  color: #ff0000;
   font-size: 14px;
 }
 .sidebar-menu {
@@ -365,7 +365,7 @@ SIDEBAR + RIGHT COLUMN
   font-family: 'FontAwesome';
   content: '\f105';
   margin: 0 5px 0 -15px;
-  color: #999999;
+  color: #ff0000;
 }
 .sidebar-menu li.active a {
   color: #ef5285;
@@ -408,7 +408,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #ff0000;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -505,7 +505,7 @@ SERVICES / INTEGRATIONS
   letter-spacing: 0.1em;
   font-size: 18px;
   font-weight: 400;
-  color: #999999;
+  color: #ff0000;
   margin-bottom: 40px;
 }
 .services .heading {
@@ -526,7 +526,7 @@ SERVICES / INTEGRATIONS
   font-size: 14px;
   line-height: 1.5;
   margin-bottom: 60px;
-  color: #999999;
+  color: #ff0000;
 }
 /*
 =====================
@@ -587,8 +587,8 @@ p.social a {
   font-size: 15px;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #999999;
-  color: #999999;
+  border: solid 1px #ff0000;
+  color: #ff0000;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -652,14 +652,14 @@ COPYRIGHT
 =====================
 */
 .copyright {
-  color: #999999;
+  color: #ff0000;
   font-size: 13px;
 }
 .copyright p.credit {
   margin-bottom: 10px;
 }
 .copyright p.credit a {
-  color: #999999;
+  color: #ff0000;
 }
 @media (max-width: 991px) {
   .copyright p.credit {
@@ -703,7 +703,7 @@ ABOUT
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #999999;
+  color: #ff0000;
   font-size: 12px;
 }
 .progress-bar-skill1 {
@@ -857,7 +857,7 @@ a:active {
   padding: 15px 20px 15px;
 }
 .box-masonry .box-masonry-text p {
-  color: #999999;
+  color: #ff0000;
   font-size: 14px;
 }
 .box-masonry .box-masonry-hover-text-header {
@@ -969,7 +969,7 @@ a:active {
   color: #555555;
 }
 .box-simple p {
-  color: #999999;
+  color: #ff0000;
 }
 .box-simple:hover .icon {
   -webkit-transform: scale(1.1, 1.1);
@@ -983,7 +983,7 @@ a:active {
 }
 .box-simple.box-white {
   padding: 20px;
-  border: dotted 1px #999999;
+  border: dotted 1px #ff0000;
 }
 .box-simple.box-white .icon {
   color: #555555;
@@ -992,7 +992,7 @@ a:active {
 }
 .box-simple.box-dark {
   padding: 20px;
-  border: dotted 1px #999999;
+  border: dotted 1px #ff0000;
   background: #555555;
   color: #fff;
 }
@@ -1170,7 +1170,7 @@ a:active {
   letter-spacing: 0.08em;
 }
 .box-image-text .content p {
-  color: #999999;
+  color: #ff0000;
 }
 .box-image-text.bg-visible .bg {
   opacity: 0.8;
@@ -1237,11 +1237,11 @@ STYLE SWITCHER FOR DEMO
   background-color: #cdcdcd;
 }
 .nav > li.disabled > a {
-  color: #999999;
+  color: #ff0000;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #999999;
+  color: #ff0000;
 }
 .nav .open > a,
 .nav .open > a:hover,
@@ -1577,7 +1577,7 @@ STYLE SWITCHER FOR DEMO
 /* modal */
 .modal-content {
   background-color: #ffffff;
-  border: 1px solid #999999;
+  border: 1px solid #ff0000;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0;
 }
@@ -1646,7 +1646,7 @@ hr {
   color: #cccccc;
 }
 .breadcrumb > .active {
-  color: #999999;
+  color: #ff0000;
 }
 .breadcrumb a {
   color: #ef5285;
@@ -1807,14 +1807,14 @@ label {
   box-shadow: none;
 }
 .form-control::-moz-placeholder {
-  color: #999999;
+  color: #ff0000;
   opacity: 1;
 }
 .form-control:-ms-input-placeholder {
-  color: #999999;
+  color: #ff0000;
 }
 .form-control::-webkit-input-placeholder {
-  color: #999999;
+  color: #ff0000;
 }
 .form-control:focus {
   border-color: #ef5285;
@@ -1855,7 +1855,7 @@ label {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #999999;
+  color: #ff0000;
   background-color: #ffffff;
   border-color: #ddd;
 }
@@ -1910,7 +1910,7 @@ label {
 .pagination > .disabled > a,
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
-  color: #999999;
+  color: #ff0000;
   background-color: #ffffff;
   border-color: #dddddd;
 }
@@ -2026,7 +2026,7 @@ a.bg-primary:hover {
 }
 abbr[title],
 abbr[data-original-title] {
-  border-bottom: 1px dotted #999999;
+  border-bottom: 1px dotted #ff0000;
 }
 blockquote {
   padding: 12px 24px;
@@ -2040,7 +2040,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.55;
-  color: #999999;
+  color: #ff0000;
 }
 blockquote footer:before,
 blockquote small:before,

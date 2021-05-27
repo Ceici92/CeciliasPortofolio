@@ -7,7 +7,7 @@ image: "img/EntrepreneurChallenge/DesktopViews/UVisitePersonnage.png"
 
 During my second year at the engineering school Telecom SudParis, I took part in the "Entrepreneur Challenge" organized by the start-up incubator.
 
-In a team of six, we had one week to imagine an innovative start-up, and to produce a fifteen-page document describing: the problem our start-up would answer, its market, 
+**In a team of six, we had one week to imagine an innovative start-up**, and to produce a fifteen-page document describing: the problem our start-up would answer, its market, 
 its competitors, the marketing and commercial plan, its implementation, the organisation of its launching, and financial elements.
 
 Below, I describe some steps of the reflexion around the start-up.
@@ -16,7 +16,7 @@ Below, I describe some steps of the reflexion around the start-up.
 
 ## Our idea
 
-As six students passionate about the world of art, and studying numerical technologies, we decided to imagine a solution mixing both.
+**As six students passionate about the world of art, and studying numerical technologies, we decided to imagine a solution mixing both.**
 
 
 #### The Problem: 
@@ -52,7 +52,7 @@ To do so, we were inspired by our own profiles, and we looked for individuals bo
 
 &nbsp;
 
-Our **BtoC offer** concerns men and women from 16 to 59 years old, that are interested in culture, art, and tourism. 
+Our **B2C offer** concerns men and women from 16 to 59 years old, that are interested in culture, art, and tourism. 
 They are familiar with the digital technologies. 
 The use of our application could be common or occasional, thus, we elaborated **two personas**.
 
@@ -73,11 +73,11 @@ The use of our application could be common or occasional, thus, we elaborated **
 
 &nbsp;
 
-As for our **BtoB offer**, it concerns cultural institutions.
+As for our **B2B offer**, it concerns cultural institutions.
 Our clients are public or private museums, and the monuments with a strong historical value, that want to enrich and enhance their visitors' experience.
 Once again, we elaborated **two personas**.
 
-> **A Parisian museum** considered as a public institution, having the appellation "Musée de France".
+> **A Parisian museum** considered as a public institution, having the appellation "Musee de France".
 > The museum has for mission to make its collection accessible to the widest public and is looking for ways to enhance its visitors' experience, and this is why it called us.
 
 
@@ -111,15 +111,15 @@ To imagine how our platform will be organised and what it will look like, we sta
 
 &nbsp;
 
-Once we were satisfied, we created **wireframes** of the mobile view with **Marvel**.
-They illustrate the **user journey** in our platform: the creation of an account, the news' page with expositions to discover, the personalised welcoming page, the chat groups.
+Once we were satisfied, **we created wireframes of the mobile view with Marvel**.
+**They illustrate the user journey in our platform**: the creation of an account, the news' page with expositions to discover, the personalised welcoming page, the chat groups.
 
 ![Wireframes](https://ceici92.github.io/CeciliasPortofolio/img/EntrepreneurChallenge/Wireframes.png)
 
 &nbsp;
 
-Besides, we also made views of the platform in desktop (still with Marvel), we illustrated the page of art recognition through a picture, the page with an interactive map, and the one with the selection of immersive packages.
-Finally, I made with **Photoshop** views of an interactive exhibition about Van Gogh. 
+Besides, **we also made views of the platform in desktop** (still with Marvel), we illustrated the page of art recognition through a picture, the page with an interactive map, and the one with the selection of immersive packages.
+**Finally, I made with Photoshop views of an interactive exhibition about Van Gogh.** 
 
 To do so, I first imagined two interesting scenarios to represent immersive visits, then I collected the images of the background online and edited them with Photoshop, then I made the mobile views with Marvel, and I integrated them in the Photoshop document.
 Furthermore, I tried to make a gif with Photoshop to represent how Van Gogh is in the virtual experience.

@@ -14,7 +14,7 @@ This start-up of 15 employees aim to make profitable the infrastructures of RTE,
 - **My mission:**
 
 For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmers and small cities.
-My mission was to **design and implement the customers' dashboard on the interface**, and to do so I followed those steps:
+**My mission was to design and implement the customers' dashboard on the interface**, and to do so I followed those steps:
 
 &nbsp;
 
@@ -114,7 +114,7 @@ Then, the fourth dashboard is a general view of a site that has these three kind
 >One with a general view of a building showing if a sensor detected an anormal situation, if the user clicks on one of the rooms in the hierarchy, he accesses the second dashboard where the data of the different sensors of the room are displayed.
 
 
-{{< gallery-slider dir="img/Arteria/Solutions2/" width="907px" height="450px" >}}
+{{< gallery-slider dir="img/Arteria/Solutions2/" width="900px" height="450px" >}}
 
 
 <!-- ![Solutions](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->

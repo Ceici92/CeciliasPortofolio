@@ -52,7 +52,7 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "About me"
   url = "about/"
 
   #[[params.navlinks]]
