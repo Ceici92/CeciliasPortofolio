@@ -2,7 +2,7 @@
 title: "Customers' Dashboards"
 date: 2021-05-19T10:11:02+02:00
 draft: false
-image: "img/Arteria/AgriCooperative.png"
+image: "img/Arteria/1AgriMeteo.png"
 ---
 
 - **The company:**
