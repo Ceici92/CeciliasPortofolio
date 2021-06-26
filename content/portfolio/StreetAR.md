@@ -3,6 +3,7 @@ title: "Street AR"
 date: 2021-05-21T14:28:25+02:00
 draft: false
 image: "img/StreetAR.png"
+description: "School Project - Augmented Reality - Blender - Unity"
 ---
 
 

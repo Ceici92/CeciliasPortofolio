@@ -3,6 +3,7 @@ title: "Cultural Platform & Interactive Visits"
 date: 2021-05-11T19:46:48+02:00
 draft: false
 image: "img/EntrepreneurChallenge/DesktopViews/UVisitePersonnage.png"
+description: "School Project - UX - Augmented Reality - Wireframes"
 ---
 
 During my second year at the engineering school Telecom SudParis, I took part in the "Entrepreneur Challenge" organized by the start-up incubator.

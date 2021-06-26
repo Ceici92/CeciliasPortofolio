@@ -3,6 +3,7 @@ title: "The User Interface of Arteria"
 date: 2021-05-19T10:11:02+02:00
 draft: false
 image: "img/Arteria/1AgriMeteo.png"
+description: "Internship - Web interface - html/css/js - UX - UI"
 ---
 
 - **The company:**
