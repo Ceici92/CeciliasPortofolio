@@ -1,5 +1,5 @@
 ---
-title: "Customers' Dashboards"
+title: "The User Interface of Arteria"
 date: 2021-05-19T10:11:02+02:00
 draft: false
 image: "img/Arteria/1AgriMeteo.png"
@@ -7,7 +7,7 @@ image: "img/Arteria/1AgriMeteo.png"
 
 - **The company:**
 
-Between my first and second year at Telecom SudParis I made an internship of two month at Arteria, a subsidiary of RTE.
+Between my first and second year at Telecom SudParis I made an **internship of two month at Arteria**, a subsidiary of RTE.
 This start-up of 15 employees aim to make profitable the infrastructures of RTE, by rehabilitating electrical pylons, and **deploying optical fibers and an IoT (Internet of Things) network**.
 
 
@@ -37,7 +37,7 @@ They install captors in an entire building to regulate the energy consumption.
 Thus, they need to instantly see the state of the entire building, but also to be able to navigate and have a precise view of each floor or each room.
 
 
-#### The Thingsboard's interface 
+#### The existing interface 
 
 The interface was done with Thingsboard, an open-source IoT platform for data visualization and device management.
 Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (**through html, css, and javaScript**) entirely new widgets.
@@ -66,7 +66,7 @@ We used scenarios, personas, and storyboards to obtain a clear view of our objec
 
 &nbsp;
 
-## Sketching and Prototyping
+## Sketching
 
 After having a clear view of where we were going, I started to sketch the dashboards and widgets I imagined, along with their information architectures.
 
@@ -102,11 +102,15 @@ I was not able to make potential users test my dashboards, however I shared my c
 
 You can find below the dashboards I produced.
 
+<!-- ![Solutions](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->
+
+
 - **I conceived 4 types of dashboard for the agriculture**:
 
 >There are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos, and the third one is for the monitoring of agricultural lands.
-<!-- Then, the fourth dashboard is for a cooperative, and displays the informaion of one of its farmers.-->
 Then, the fourth dashboard is a general view of a site that has these three kinds of activites.
+
+<!-- Then, the fourth dashboard is for a cooperative, and displays the informaion of one of its farmers.-->
 
 
 - **The last two dashboards are for the smart cities**: 
@@ -117,6 +121,5 @@ Then, the fourth dashboard is a general view of a site that has these three kind
 {{< gallery-slider dir="img/Arteria/Solutions2/" width="900px" height="450px" >}}
 
 
-<!-- ![Solutions](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Moodboard.JPG) -->
 
 

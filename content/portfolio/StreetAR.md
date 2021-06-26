@@ -6,27 +6,40 @@ image: "img/StreetAR.png"
 
 ---
 
-As a transversal project during my master 2 in Virtual and Augmented Reality, I created an AR application dedicated to one fresco.    
+As a transversal project during my master 2 in Virtual and Augmented Reality, a colleague and I created an AR application dedicated to one fresco.    
 
+- **Context of the fresco:**
 
-{{< youtube sd7jM1GwpIY >}}    
-
-&nbsp;
-
-**We decided to make an AR application in connection with art, and we took advantage of this magnific fresco** painted by students of our school, children of several activity centre in Evry,  and the street artist Vince.
-The creation of the fresco was an excuse to begin a dialogue around art and the environment, between the students and the children. 
-
-&nbsp;
+As a previous project with my school, I teamed with 6 other students to put in place **a project to connect students of our school and children of several activity centers in Evry.**
+Based on our interests, **we decided to animate XX about art and to paint a fresco in partnership with the street artist Vince and Evry's MAIRE.**
+During the last XX, we organised a brainstorming session, children had to come up with characters or stories around the environment that they wanted to see on the fresco.
+Based on the brainstorming, the artist Vince created a design, and we spend 2 days all together painting  the fresco.
 
 ![The Fresco](https://ceici92.github.io/CeciliasPortofolio/img/StreetAR/Fresco.jpg)
 
-&nbsp;
 
-I teamed up with another student, and together we worked around three problematics: **how to transpose street art into the world of augmented reality, how to make this experience attractive, and how to address it to people who do not know AR?**
+- **The AR Application Process:**
+
+**We decided to make an AR application in connection with art, and this magnific fresco was the perfect support.**
+With my colleague, we worked around three problematics: **how to transpose street art into the world of augmented reality, how to make this experience attractive, and how to address it to people who do not know AR?**
 
 **To do so, we organised our time in five phases: Immersion, Ideation, Organisation, Production and Presentation**.
 For each phase, I described what we have done below:
 
 {{< gallery-slider dir="img/StreetAR/Phases/" width="907px" height="500px" >}}
+
+&nbsp;
+
+- **The Result:**
+
+I learned a lot about storytelling in VR, the different technologies on Unity to make AR applications, the general workflow of the creation of a AR application with 3D characters, and I imrproved my skills on Blender and Unity.
+
+Finally, I am pround of the application we created,, and I let you discover it on the video bellow :
+
+{{< youtube sd7jM1GwpIY >}}    
+
+
+
+
 
 
