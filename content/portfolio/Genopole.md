@@ -3,7 +3,6 @@ title: "Virtual Visit of the Genopole"
 date: 2021-05-17T10:55:18+02:00
 draft: false
 image: "img/Genopole/Entree.png"
-
 ---
 
 As a project during my second year at my engineering school, I teamed-up with two students and we collaborated with Evry's Genepole to create a virtual visit of their campus.

@@ -13,7 +13,7 @@ This start-up of 15 employees aim to make profitable the infrastructures of RTE,
 
 - **My mission:**
 
-For my internship, I integrated a team of 4 people dedicated to provide connected sensors, connectivity and a web interface to farmers and small cities.
+For my internship, I integrated a team of 4 people dedicated to providing connected sensors, connectivity and a web interface to farmers and small cities.
 **My mission was to design and implement the customers' dashboard on the interface**, and to do so I followed those steps:
 
 &nbsp;
@@ -27,9 +27,9 @@ I started by analysing the different types of clients and data collected, and th
 
 **Two main domains are represented in the interface: agriculture and smart cities**.
 
-> In the **agriculture**, two types of clients exist: the cooperative with data from different farms, and farmerss with less data and more proximate crops.
+> In the **agriculture**, two types of clients exist: the cooperative with data from different farms, and farmers with less data and more proximate crops.
 The cooperative needs to easily see the state of the crops or the silos in the different territories, especially as they may collect their content once they are full.
-The farmerss may have different types of activities: some want to see the data from their crops (temperature, humidity, luminosity, CO2), others from their weather stations (temperature, pression, wind direction and velocity, humidity, pluviometry), or their silos (capacity, occupancy rate, content type), or all that !
+The farmers may have different types of activities: some want to see the data from their crops (temperature, humidity, luminosity, CO2), others from their weather stations (temperature, pression, wind direction and velocity, humidity, pluviometry), or their silos (capacity, occupancy rate, content type), or all that !
 
 
 > For the **smart cities**, the clients are mostly city councils. 
@@ -43,7 +43,7 @@ The interface was done with Thingsboard, an open-source IoT platform for data vi
 Therefore, I did not have to code entirely new dashboards, and I could customize the exiting and create (**through html, css, and javaScript**) entirely new widgets.
 
 The interface was at its premise and only had one type of dashboard for all the clients.
-Apart from the lack of distinction between the activities of the farmers, at first sigh the client may not see the information he wants.
+Apart from the lack of distinction between the activities of the farmers, at first sight the client may not see the information he wants.
 
 ![Dashboard](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Screenshots/Dashboard1.JPG)
 
@@ -88,7 +88,7 @@ For example, I created the pins' icons on the map widget, to enable the user to 
 To modify or create widgets on the platform, I had to understand the code of the existing ones, and to strengthen my skills in html, css and javascript, to create new ones.  
 
 
-For example, I created the following widgets to diverdify visually the jauge that were represented, and to display new values: the baterie of a sensor and the name of the owner of the site.
+For example, I created the following widgets to diversify visually the gauges that were represented, and to display new values: the battery of a sensor and the name of the owner of the site.
 
 ![Prototypes](https://ceici92.github.io/CeciliasPortofolio/img/Arteria/Widgets/Widgets.JPG)
 
@@ -107,10 +107,10 @@ You can find below the dashboards I produced.
 
 - **I conceived 4 types of dashboard for the agriculture**:
 
->There are one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos, and the third one is for the monitoring of agricultural lands.
-Then, the fourth dashboard is a general view of a site that has these three kinds of activites.
+>There is one dashboard for each type of data: the first one is for the monitoring of a weather station, the second one for the maintenance of silos, and the third one is for the monitoring of agricultural lands.
+Then, the fourth dashboard is a general view of a site that has these three kinds of activities.
 
-<!-- Then, the fourth dashboard is for a cooperative, and displays the informaion of one of its farmers.-->
+<!-- Then, the fourth dashboard is for a cooperative, and displays the information of one of its farmers.-->
 
 
 - **The last two dashboards are for the smart cities**: 

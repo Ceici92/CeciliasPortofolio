@@ -30,7 +30,7 @@ They need to access easily to information about several museums and testimonies.
 #### Our solution:
 
 
-**Our solution consists of the creation of a community platform binding museums and visitors, with the exclusive acess to immersive visit packages.**
+**Our solution consists of the creation of a community platform binding museums and visitors, with the exclusive access to immersive visit packages.**
 
 In the same platform, the users would have access to a map of the existing museums in specific zones, to news related to their interests, to a community of internauts sharing their recommendations, 
 to a personal community of their closed ones, to a shazam of arts to know the essential about a piece of art in one picture and then to discover the information about the museum in which it is. 

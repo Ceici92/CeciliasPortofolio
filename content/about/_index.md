@@ -7,16 +7,17 @@ draft: false
 
 Hello !
 
-I am Cecilia, a creative and enthousiastic experience designer and engineer based in Paris.
+I am Cecilia, a creative and enthusiastic experience designer and engineer based in Paris.
 
-Currently in my last year at the French engineering school Telecom SudParis, I am doing my final year internship at Dassault Systemes, where I am designing the functional aspects and the best user experience of a a complete process of design in Virtual Reality.
+Currently in my last year at the French engineering school Telecom SudParis, I am doing my final year internship at Dassault Systemes, 
+where I am designing the functional aspects and the best user experience of a complete process of design in Virtual Reality.
 
 ![This is me](https://ceici92.github.io/CeciliasPortofolio/img/me.jpg)
 
 Before I joined a school specialised in IT, I always had a sensibility for the graphical universe and been passionate about technological innovations.
 Therefore working on the design of experiences based on new technologies is a way to combine those two thematics.
 
-Appart from work, I like to draw, visit exhibitions, and dance. 
+Apart from work, I like to draw, visit exhibitions, and dance. 
 
 #### Education
 
