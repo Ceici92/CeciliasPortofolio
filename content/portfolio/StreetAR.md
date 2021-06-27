@@ -6,6 +6,8 @@ image: "img/StreetAR.png"
 description: "School Project - Augmented Reality - Blender - Unity"
 ---
 
+##### 11/2020 - 02/2021
+
 As a transversal project during my master 2 in Virtual and Augmented Reality, a colleague and I created an AR application dedicated to one fresco.    
 
 - **Context of the fresco:**

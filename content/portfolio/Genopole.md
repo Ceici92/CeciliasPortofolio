@@ -6,6 +6,8 @@ image: "img/Genopole/Entree.png"
 description: "School Project & Company - Virtual Reality - Blender - Unity"
 ---
 
+##### 01/2020 - 06/2020
+
 As a project during my second year at my engineering school, I teamed-up with two students and we collaborated with Evry's Genepole to create a virtual visit of their campus.
 
 &nbsp;

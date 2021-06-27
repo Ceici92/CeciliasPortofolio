@@ -6,6 +6,8 @@ image: "img/Arteria/1AgriMeteo.png"
 description: "Internship - Web interface - html/css/js - UX - UI"
 ---
 
+##### 05/2019 - 07/2019
+
 - **The company:**
 
 Between my first and second year at Telecom SudParis I made an **internship of two month at Arteria**, a subsidiary of RTE.

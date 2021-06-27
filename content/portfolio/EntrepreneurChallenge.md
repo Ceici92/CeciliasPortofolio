@@ -6,6 +6,8 @@ image: "img/EntrepreneurChallenge/DesktopViews/UVisitePersonnage.png"
 description: "School Project - UX - Augmented Reality - Wireframes"
 ---
 
+##### 05/2020
+
 During my second year at the engineering school Telecom SudParis, I took part in the "Entrepreneur Challenge" organized by the start-up incubator.
 
 **In a team of six, we had one week to imagine an innovative start-up**, and to produce a fifteen-page document describing: the problem our start-up would answer, its market, 
