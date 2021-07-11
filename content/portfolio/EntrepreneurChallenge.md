@@ -19,7 +19,7 @@ Below, I describe some steps of the reflexion around the start-up.
 
 ## Our idea
 
-**As six students passionate about the world of art, and studying numerical technologies, we decided to imagine a solution mixing both.**
+**As six students passionate about the world of art, and studying digital technologies, we decided to imagine a solution mixing both.**
 
 
 #### The Problem: 
@@ -40,7 +40,7 @@ to a personal community of their closed ones, to a shazam of arts to know the es
 
 Finally, once a museum is selected, if it is one of our partners, the user will be able to buy his tickets online and download an **immersive visit package**.
 Those immersive routes will interact with the visitor through a digital equipment. 
-For example, the visitor will be able to access information about a specific element he is interested in, information that could be unseen like a color reconstruction or the reconstruction of a context.
+For example, the visitor will be able to access information about a specific element he is interested in, information that could be unseen like a colour reconstruction or the reconstruction of a context.
 
 At the end, a visit recap will be sharable with the community.
 
@@ -65,13 +65,13 @@ The use of our application could be common or occasional, thus, we elaborated **
 > She likes to talk and discuss about art and philosophy.
 > Curious, she is always looking into expand her knowledge.
 > She practices diverse arts and share her results on the social medias.
-> She is familiar with the numerical tools.
+> She is familiar with the digital tools.
 > Curious to try to new experiences, she is opened to experiment immersive visits in museums that she visits frequently.
 
 > **Jean**, a young executive, is aged of 45 years old. 
 > He is passionate about history and he visits several monuments and historical places during the year.
 > He always travels with his two children and his wife to visit historical sites, in order to share his passion with them.
-> Familiar with numerical tools, he looks into the recommendations online before scheduling a visit. 
+> Familiar with digital tools, he looks into the recommendations online before scheduling a visit. 
 > Searching for new experiences enabling him to live his passion, and to share it with his children, the idea of immersive experiences interests him particularly.
 
 &nbsp;
@@ -80,8 +80,8 @@ As for our **B2B offer**, it concerns cultural institutions.
 Our clients are public or private museums, and the monuments with a strong historical value, that want to enrich and enhance their visitors' experience.
 Once again, we elaborated **two personas**.
 
-> **A Parisian museum** considered as a public institution, having the appellation "Musee de France".
-> The museum has for mission to make its collection accessible to the widest public and is looking for ways to enhance its visitors' experience, and this is why it called us.
+> **A Parisian Museum** considered as a public institution, having the appellation "Musee de France".
+> The museum has for mission to make its collection accessible to the widest public and is looking for ways to enhance its visitors' experience, and therefore it called us.
 
 
 > **A private company** ensuring: the management of historical monuments and museums, the creation of art centers, and the organisation of temporarily digital immersive exhibitions.
